@@ -28,5 +28,6 @@ RTL realization
 RTL
 Timing Diagram
 
-## Result: Thus, the given logic functions are implemented using and their operations are verified using Verilog programming.
+## Result: 
+Thus, the given logic functions are implemented using and their operations are verified using Verilog programming.
 ***
